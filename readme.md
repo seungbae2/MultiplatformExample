@@ -1,1 +1,1 @@
-# KMM (Kotlin Multiplatform for Mobile) Example
+# KMM (Kotlin Multiplatform for Mobile)
